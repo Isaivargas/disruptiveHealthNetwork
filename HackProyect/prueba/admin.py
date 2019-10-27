@@ -1,4 +1,4 @@
-#from django.contrib import admin
+from django.contrib import admin
 
 
 from .models import Pregunta,Respuesta,Doctor,Articulo,Sintoma,Medicamento,Tratamiento,ArticuloSistema,TratamientoMedicamento
